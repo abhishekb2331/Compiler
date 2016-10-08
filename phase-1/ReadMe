@@ -1,0 +1,12 @@
+Abhishek Bhat - 201201045
+
+Parser
+------
+
+
+   To compile just enter 
+   $ make
+   An executable will be created named parser and to run that enter
+   $ ./parser <file_name>
+
+   If file is syntactically correct it will run successfully else it will throw errors.
